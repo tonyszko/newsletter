@@ -25,4 +25,5 @@ Weekly spotlight newsletter archive
 | 2021-05-14 | [#11: The need for credibility, Vitalik Buterin, Edge computing - is it a future ... and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-11.md) |
 | 2021-05-07 | [#10: Survivorship bias around us, future of degrees, serverless or distributed and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-10.md) |
 | 2021-04-30 | [#9: Zero-sum vs positive-sum game, regulating ML/AI vs need for fact check, books and tools](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-9.md) |
+| 2021-04-23 | #8: Engineering manger's checklist, Signal, books and an ASK for your input((https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-8.md)) |
 
