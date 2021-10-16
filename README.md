@@ -29,4 +29,5 @@ Weekly spotlight newsletter archive
 | 2021-04-16 | [#7: Skills debt idea and how to orient yourself around it ](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-7.md) |
 | 2021-04-09 | [#6: Digital nations, paid search services, books ... and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-6.md) |
 | 2021-04-02 | [#5: Systems thinking, using ML APIs to build business, progress](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-5.md) |
+| 2021-03-31 | [Why and how you need to build your leverage: in work, career and life?](https://github.com/tonyszko/newsletter/blob/main/issues/Why-and-how-you-need-to-build-your-leverage.md) |
 
