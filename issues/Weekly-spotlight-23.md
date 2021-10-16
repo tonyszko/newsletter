@@ -32,7 +32,7 @@ Thinking long-term is hard. You need to convince yourself now to think about the
 
 It makes things like losing weight or saving for retirement hard. That's  why many people don't start it or fail initially, as the results are not there or are minimal in the short run. It is especially true in  financial planning and savings, where you plan for a possible future 30  or 40 years from now. 
 
-​                      [ ![Long term effort by Taylor Simpson](https://bucket.mlcdn.com/a/2947/2947243/images/e78b0eee84a27f974a32259c733b88574573a6f4.jpeg) ](https://click.mailerlite.com/link/c/)                    
+​                      ![Long term effort by Taylor Simpson](https://bucket.mlcdn.com/a/2947/2947243/images/e78b0eee84a27f974a32259c733b88574573a6f4.jpeg)                   
 
 Long-term thinking at the individual level is hard. Long-term thinking at the  group level is like another dimension of being hard. 
 
@@ -98,9 +98,9 @@ People say that I always end up with security. Well, it is a sneak peek into  my
 
 Here's a bit of professional career advice - if you want to position yourself  on the market for a more extended period, look at a cross-section of  cloud, development, and security. Even with changing landscape, you  can't be completely wrong on this bet. The cross-section of these  elements is still a blind spot for many and is in high demand. 
 
-Where to start? A Google's whitepaper "[Shifting left on security: Securing software supply chain](https://click.mailerlite.com/link/c/)" is a good starting point. It comes from Google, but it is about the  practice, so it applies to another tech stack. It will gain importance  in years to come, and few people know how to handle security in the  product delivery process. It is worth taking a look at it in search of a new professional place.
+Where to start? A Google's whitepaper "[Shifting left on security: Securing software supply chain](https://cloud.google.com/files/shifting-left-on-security.pdf)" is a good starting point. It comes from Google, but it is about the  practice, so it applies to another tech stack. It will gain importance  in years to come, and few people know how to handle security in the  product delivery process. It is worth taking a look at it in search of a new professional place.
 
-Google's docs on [DevOps capabilities](https://click.mailerlite.com/link/c/) are a good reference point for many things, so good to place a bookmark on it. 
+Google's docs on [DevOps capabilities](https://cloud.google.com/architecture/devops/capabilities) are a good reference point for many things, so good to place a bookmark on it. 
 
 
 
@@ -110,7 +110,7 @@ Google's docs on [DevOps capabilities](https://click.mailerlite.com/link/c/) are
 
 When I speak with Predica team members and people outside of the company, I  often repeat to maximize the value of what you create. Think about how  long it will be valid, relevant, and instead of writing something in an  e-mail, it is better to write a blog post about it. 
 
-Scott Hanselman put it together in a funny way: a[ quick tool to calculate how many keystrokes](https://click.mailerlite.com/link/c/) you have left (on average) in your life. Why? Because you may want to  maximize the impact of each keystroke and how many people it will reach. 
+Scott Hanselman put it together in a funny way: a[ quick tool to calculate how many keystrokes](https://keysleft.com/) you have left (on average) in your life. Why? Because you may want to  maximize the impact of each keystroke and how many people it will reach. 
 
 Quoting the tool web page:
 
@@ -120,13 +120,13 @@ Quoting the tool web page:
 
 If you need encouragement to start putting your words out there, this is a good reason. Maximize the value of your keystroke! 
 
-Don't you know what is your words-per-minute count (WPM)? Here's a tool to help you check that - [Typing Speed Test](https://click.mailerlite.com/link/c/). BTW - it is an excellent example of marketing tactics from LiveChat which put this tool together. 
+Don't you know what is your words-per-minute count (WPM)? Here's a tool to help you check that - [Typing Speed Test](https://www.livechat.com/typing-speed-test/#/). BTW - it is an excellent example of marketing tactics from LiveChat which put this tool together. 
 
-​                      [ ![My typing speed](https://bucket.mlcdn.com/a/2947/2947243/images/a81a3563f7535452678d922c2707f249457c2507.jpeg) ](https://click.mailerlite.com/link/c/)                    
+​                       ![My typing speed](https://bucket.mlcdn.com/a/2947/2947243/images/a81a3563f7535452678d922c2707f249457c2507.jpeg)     
 
 Based on this, my remaining keystroke is: 
 
-​                      [ ![My keystrokes left](https://bucket.mlcdn.com/a/2947/2947243/images/c83dab36fab2fadfdfdc775f041a9da9001b51b9.jpeg) ](https://click.mailerlite.com/link/c/)                    
+​                       ![My keystrokes left](https://bucket.mlcdn.com/a/2947/2947243/images/c83dab36fab2fadfdfdc775f041a9da9001b51b9.jpeg)              
 
 Some of it will land in your inboxes - that's my keystroke gift for you :). 
 
@@ -136,7 +136,7 @@ Some of it will land in your inboxes - that's my keystroke gift for you :).
 
 I like podcast recording because I have a chance to talk with people and  receive a gift of their time and knowledge. It also leads to the  discovery of new tools, books, and places. 
 
-Recording one of the latest episodes I've learned about "[Edge](https://click.mailerlite.com/link/c/)." This site contains recordings of talks and discussions with various  people on different subjects. Those are not random people but  scientists, entrepreneurs, and experts in their fields. All at your  disposal, recorded, and available for free. 
+Recording one of the latest episodes I've learned about "[Edge](https://www.edge.org/conversations)." This site contains recordings of talks and discussions with various  people on different subjects. Those are not random people but  scientists, entrepreneurs, and experts in their fields. All at your  disposal, recorded, and available for free. 
 
 Consider it as an alternative to the next Netflix binge session (nothing wrong  with Netflix if you enjoy it). I like the idea and content and found it  very interesting. 
 
@@ -144,9 +144,9 @@ Consider it as an alternative to the next Netflix binge session (nothing wrong  
 
 **Dealing with procrastination**
 
-I can procrastinate for days. Believe me. If it doesn't look like it from the outside, that's because I'm good at hiding it. It is why I've  created my own "[Simple decision-making framework for everyday use](https://click.mailerlite.com/link/c/)." 
+I can procrastinate for days. Believe me. If it doesn't look like it from the outside, that's because I'm good at hiding it. It is why I've  created my own "[Simple decision-making framework for everyday use](https://www.onyszko.com/simple-decision-making/)." 
 
-Krzysztof Daniel wrote a post about procrastination - "[My three-step recipe for overcoming procrastination](https://click.mailerlite.com/link/c/)." Is procrastination hunting you? If yes, it will resonate with you and help you avoid it when it creeps in. 
+Krzysztof Daniel wrote a post about procrastination - "[My three-step recipe for overcoming procrastination](https://www.kda.zone/post/my-three-step-recipe-for-overcoming-procrastination)." Is procrastination hunting you? If yes, it will resonate with you and help you avoid it when it creeps in. 
 
 Not spoiling the content of the article; Krzysztof identified fear as a reason for him to procrastinate: 
 
@@ -160,11 +160,11 @@ I still struggle with it, and I can recognize when procrastination creeps in :).
 
 **How to prepare yourself for disaster?**
 
-Here comes my security bubble again but in a different context. [Michał Zalewski (lcamtuf)](https://click.mailerlite.com/link/c/) is a security researcher who I follow here and there online for my  entire career. He is a well-established security researcher, author, and known figure in security circles. 
+Here comes my security bubble again but in a different context. [Michał Zalewski (lcamtuf)](https://lcamtuf.coredump.cx/) is a security researcher who I follow here and there online for my  entire career. He is a well-established security researcher, author, and known figure in security circles. 
 
-Michał got back to my feed as he is publishing his next book around the topic he has well covered in his "[Disaster planning for regular folks](https://click.mailerlite.com/link/c/)" post. You don't have to be paranoid about the future. Still, it is not  being paranoiac if you think about "what might happen" in being prepared for the unexpected. Black Swans happens, but it doesn't need a black  swan type of event to put you in a situation where 'being prepared' pays off. 
+Michał got back to my feed as he is publishing his next book around the topic he has well covered in his "[Disaster planning for regular folks](https://lcamtuf.coredump.cx/prep/index-old.shtml)" post. You don't have to be paranoid about the future. Still, it is not  being paranoiac if you think about "what might happen" in being prepared for the unexpected. Black Swans happens, but it doesn't need a black  swan type of event to put you in a situation where 'being prepared' pays off. 
 
-Post itself is worth reading, and I've already pre-ordered my copy of the "[Practical Doomsday](https://click.mailerlite.com/link/c/)" book coming up in 2022. 
+Post itself is worth reading, and I've already pre-ordered my copy of the "[Practical Doomsday](https://lcamtuf.coredump.cx/prep/)" book coming up in 2022. 
 
 
 
@@ -174,8 +174,8 @@ The previous week I wrote about new features introduced by Apple to fight  child
 
 Here are two good sources as a follow-up to this topic:
 
-- Apple's New 'Child Safety' Initiatives, and the Slippery Slope ([LINK](https://click.mailerlite.com/link/c/))
-- Apple's Mistake ([LINK](https://click.mailerlite.com/link/c/))
+- Apple's New 'Child Safety' Initiatives, and the Slippery Slope ([LINK](https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope))
+- Apple's Mistake ([LINK](https://stratechery.com/2021/apples-mistake/))
 
 This new feature triggers a whole further discussion on privacy, what  companies can/should do to prevent abuse and the right of you as an  owner of a device vs. public good. This discussion will go for a long  time, and I will watch how it will develop. It is important to what  extent (currently they claim that nothing like this will happen) Apple  will be forced to follow national governments who will want to abuse  this feature (they will want to do it). 
 
@@ -185,9 +185,9 @@ One thing is clear from it and highlighted in those sources linked above -  doin
 
 **OpenAI brings natural language as a way to do coding**.
 
-I wrote about AI-assisted programming before - it seems OpenAI pushes it  much faster than I anticipated. Here is a blog post and demonstration of using the OpenAI Codex model to do [conversational programming for a web app using a natural language](https://click.mailerlite.com/link/c/). 
+I wrote about AI-assisted programming before - it seems OpenAI pushes it  much faster than I anticipated. Here is a blog post and demonstration of using the OpenAI Codex model to do [conversational programming for a web app using a natural language](https://openai.com/blog/openai-codex/). 
 
-​                      [ ![OpenAI Codex Live Demo](https://bucket.mlcdn.com/a/2947/2947243/images/2b6c5cfc284a247414fc324f699531f383faba3f.png/e8bdd0901abdf95525fb38d1b484591e72e229c8.png) ](https://click.mailerlite.com/link/c/)                    
+​                     [![OpenAI Codex Live Demo](https://bucket.mlcdn.com/a/2947/2947243/images/2b6c5cfc284a247414fc324f699531f383faba3f.png/e8bdd0901abdf95525fb38d1b484591e72e229c8.png)](https://openai.com/blog/openai-codex/)                
 
 Seems that the era of computed assisted development will come much faster,  and we will learn how to use those tools to deliver code faster. 
 
@@ -199,7 +199,7 @@ Seems that the era of computed assisted development will come much faster,  and 
 
 I don't add a lot of new tools to my toolbox as it consumes time and  attention to try it out and incorporate those tools in my workflow. In  this edition, the tools section focus is on the developer tools side of  things. 
 
-[GitHub Codespaces](https://click.mailerlite.com/link/c/) go live, and it is another excellent example of technology evolution  patterns in action. We have come from heavy, desktop-based, and paid  IDEs as the main development environment to cloud-based, lightweight,  and free or cheap IDE in a couple of years. 10+ years ago, heavy,  desktop IDE was a way to code. During this time, we went through several iterations with various IDEs to end up with free or commercial,  cloud-based IDEs for developers. 
+[GitHub Codespaces](https://github.com/features/codespaces) go live, and it is another excellent example of technology evolution  patterns in action. We have come from heavy, desktop-based, and paid  IDEs as the main development environment to cloud-based, lightweight,  and free or cheap IDE in a couple of years. 10+ years ago, heavy,  desktop IDE was a way to code. During this time, we went through several iterations with various IDEs to end up with free or commercial,  cloud-based IDEs for developers. 
 
 GitHub Codespace is a commercial tool that lets you run your development  environment in a cloud (it spins off the VM for you). Again - a  brilliant example of evolution pattern:
 
@@ -214,13 +214,13 @@ Now the thing about the combination of OpenAI Codex mentioned above with  such o
 
 The cherry on top. Piotr Stapp, a fellow MVP and developer, pointed out the brilliant feature brought with Codespaces. It lets you lunch an IDE  environment in a browser and contribute a PR on GitHub with a single  keystroke. 
 
-​                      [ ![New GitHub feature - PIotr stapp Twitter](https://bucket.mlcdn.com/a/2947/2947243/images/4ef4d92082be5ae58c48490df5e0891671ef65a8.jpeg) ](https://click.mailerlite.com/link/c/)                    
+​                      [![New GitHub feature - PIotr stapp Twitter](https://bucket.mlcdn.com/a/2947/2947243/images/4ef4d92082be5ae58c48490df5e0891671ef65a8.jpeg)](https://twitter.com/ptrstpp950/status/1425752416490766339)         
 
 Go to the repository in your browser and click "." (dot), then wait and see the magic happens.
 
 
 
-Another development-focused tool that landed in my feed is [Sourcegraph](https://click.mailerlite.com/link/c/). This tool lets you search through the code repositories you own or work with. Take a look at this example of how it might be integrated with  Azure DevOps: *"[Use Sourcegraph with Azure DevOps Repos](https://click.mailerlite.com/link/c/)."* It lands on my list of tools to check for the future and see if adoption will help develop projects.
+Another development-focused tool that landed in my feed is [Sourcegraph](https://sourcegraph.com/search). This tool lets you search through the code repositories you own or work with. Take a look at this example of how it might be integrated with  Azure DevOps: *"[Use Sourcegraph with Azure DevOps Repos](https://medium.com/@r.z./use-sourcegraph-with-azure-devops-repos-ab8921236d19)."* It lands on my list of tools to check for the future and see if adoption will help develop projects.
 
 ​                                                                                                                                   
 
