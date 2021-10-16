@@ -32,4 +32,6 @@ Weekly spotlight newsletter archive
 | 2021-03-31 | [Why and how you need to build your leverage: in work, career and life?](https://github.com/tonyszko/newsletter/blob/main/issues/Why-and-how-you-need-to-build-your-leverage.md) |
 | 2021-03-26 | [#4: Passion in a career, Sahil, new tool - Obsidian, books ... and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-4.md) |
 | 2021-03-19 | [#3: Future of tech and drones, Open Source, Silicon, VR and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-3.md) |
+| 2021-03-16 | [Status game: quit it! Be professional, status will follow](https://github.com/tonyszko/newsletter/blob/main/issues/Status-game-quit-it-Be-professional-status-will-follow.md) |
+| 2021-03-12 | [#2: Fooling AI, What makes great engineer, salaries in tech, Ray Dalio](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-2.md) |
 
