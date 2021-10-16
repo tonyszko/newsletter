@@ -34,4 +34,5 @@ Weekly spotlight newsletter archive
 | 2021-03-19 | [#3: Future of tech and drones, Open Source, Silicon, VR and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-3.md) |
 | 2021-03-16 | [Status game: quit it! Be professional, status will follow](https://github.com/tonyszko/newsletter/blob/main/issues/Status-game-quit-it-Be-professional-status-will-follow.md) |
 | 2021-03-12 | [#2: Fooling AI, What makes great engineer, salaries in tech, Ray Dalio](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-2.md) |
+| 2021-03-05 | #1: Privacy, VR, books and *something special*((https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-1.md)) |
 
