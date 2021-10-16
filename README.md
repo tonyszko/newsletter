@@ -11,4 +11,5 @@ Weekly spotlight newsletter archive
 | 2021-09-19 | [#25: 🖐️ Need for feedback in all of us, Cloud Cost Paradox, Evolution of Trust game, Cloud Katana and other tools, books 📚 and more  ](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-25.md) |
 | 2021-09-12 | [#24: Yes, I'm back, Career choices, Loot, about consulting, video games, China ... books and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-24.md) |
 | 2021-08-25 | [#23: Role of long-term thinking, dealing with procrastination, evolution and GitHub spaces and more ](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-23.md) |
+| 2021-08-06 | [#22: Appreciation of life in an example, how to handle  information overload - a recipe, news on China, tech, education and  privacy]((https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-22.md)) |
 
