@@ -21,4 +21,5 @@ Weekly spotlight newsletter archive
 | 202-16-11  | [#15: Dark arts of attacking decision making, look into a brain, fragility ... and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-15.md) |
 | 2021-06-04 | [#14: Staying productive and sane, a need for slack, OODA Loop and some CyberPunk](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-14.md) |
 | 2021-05-28 | [#13: Tech trend to observe, next gen organization, tech, books and (not serious) tools ...](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-13.md) |
+| 2021-05-21 | [#12: Are we killing free access for resources? Role of the future. A gem! Guide for consultants ... and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-12.md) |
 
