@@ -18,4 +18,5 @@ Weekly spotlight newsletter archive
 | 2021-07-05 | [#18: Two skills you need to master as a consultant (or any other profession) to make you stand out.](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-18.md) |
 | 2021-06-26 | [#17: Things that worked for me to improve my life, career and almost everything else 👍](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-17.md) |
 | 2021-06-21 | [#16: Where we fall short in our expertise? Different look at roles and skills, worrying trend with devices  ... and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-16.md) |
+| 202-1-6-11 | [#15: Dark arts of attacking decision making, look into a brain, fragility ... and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-15.md) |
 
