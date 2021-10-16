@@ -22,4 +22,5 @@ Weekly spotlight newsletter archive
 | 2021-06-04 | [#14: Staying productive and sane, a need for slack, OODA Loop and some CyberPunk](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-14.md) |
 | 2021-05-28 | [#13: Tech trend to observe, next gen organization, tech, books and (not serious) tools ...](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-13.md) |
 | 2021-05-21 | [#12: Are we killing free access for resources? Role of the future. A gem! Guide for consultants ... and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-12.md) |
+| 2021-05-14 | [#11: The need for credibility, Vitalik Buterin, Edge computing - is it a future ... and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-11.md) |
 
