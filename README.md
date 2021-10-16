@@ -15,4 +15,5 @@ Weekly spotlight newsletter archive
 | 2021-07-23 | [#21: Breaking out of  reference bubble, cracks in technology stagnation, AR/VR is progressing, weekly bunch of books and tools and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-21.md) |
 | 2021-07-19 | [#20: Pace yourself and the art of  sustainability,how to work hard, more AI assisted work, books and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-20.md) |
 | 2021-07-11 | [#19: The future and career with AI-assisted tools - case for Github Copilot](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-19.md) |
+| 2021-07-05 | [#18: Two skills you need to master as a consultant (or any other profession) to make you stand out.](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-18.md) |
 
