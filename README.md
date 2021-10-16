@@ -30,4 +30,6 @@ Weekly spotlight newsletter archive
 | 2021-04-09 | [#6: Digital nations, paid search services, books ... and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-6.md) |
 | 2021-04-02 | [#5: Systems thinking, using ML APIs to build business, progress](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-5.md) |
 | 2021-03-31 | [Why and how you need to build your leverage: in work, career and life?](https://github.com/tonyszko/newsletter/blob/main/issues/Why-and-how-you-need-to-build-your-leverage.md) |
+| 2021-03-26 | [#4: Passion in a career, Sahil, new tool - Obsidian, books ... and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-4.md) |
+| 2021-03-19 | [#3: Future of tech and drones, Open Source, Silicon, VR and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-3.md) |
 
