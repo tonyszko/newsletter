@@ -13,4 +13,5 @@ Weekly spotlight newsletter archive
 | 2021-08-25 | [#23: Role of long-term thinking, dealing with procrastination, evolution and GitHub spaces and more ](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-23.md) |
 | 2021-08-06 | [#22: Appreciation of life in an example, how to handle  information overload - a recipe, news on China, tech, education and  privacy](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-22.md) |
 | 2021-07-23 | [#21: Breaking out of  reference bubble, cracks in technology stagnation, AR/VR is progressing, weekly bunch of books and tools and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-21.md) |
+| 2021-07-19 | [#20: Pace yourself and the art of  sustainability,how to work hard, more AI assisted work, books and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-20.md) |
 
