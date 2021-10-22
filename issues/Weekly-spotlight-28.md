@@ -30,8 +30,8 @@ Before the usual spotlight on things, I found two paragraphs on simple yet impor
 
 ----
 
-*If you are new here and you are not a subscriber - it is a web archive of my newsletter. If you want to join it and receive it first, directly to your inbox you can *
-***[>> grab your subscription <<](https://signup.onyszko.com)** * *and enjoy it weekly. No strings attached. Free to unsubscribe at any time.* 
+*If you are new here and you are not a subscriber - it is a web archive of my newsletter. If you want to join it and receive it first, directly to your inbox you can 
+**[>> grab your subscription <<](https://signup.onyszko.com)** **and enjoy it weekly. No strings attached. Free to unsubscribe at any time.* 
 
 ----
 
