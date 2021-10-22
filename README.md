@@ -1,5 +1,36 @@
-# Weekly Spotlight
-Weekly spotlight newsletter archive
+# Weekly Spotlight Archive
+
+
+
+Hi
+
+
+
+Weekly spotlight is my newsletter where I share lessons from 20+ yrs of career in tech industry, market insights, links, materials, books I read, tools ... and more.  It is delivered (almost)weekly to several hundred of people ... like you.
+
+Who am I?  You can about me in full and find more [detailed information and links here](https://github.com/tonyszko/newsletter/blob/main/Who-Am-I.md). 
+
+Why you may want to read what I have to say? Decide on your own - here are two clues for you to help you decide: 
+
+## [Lessons learned so far](https://www.onyszko.com/lessons-learned/)
+
+## [My path to where I am now - from system engineer to founder](https://www.onyszko.com/my-path-to-founder/)
+
+
+
+The newsletter is free to sign-up and also free to leave if you don't like it. No strings attached. 
+
+## >> [Grab your subscription today!](https://signup.onyszko.com) <<
+
+This archive contains all the past instalments of my newsletter ... with a slight delay. New content is posted here two weeks after initial e-mail to the subscribers. 
+
+I hope you will enjoy it. 
+
+Tomek 
+
+![Join me in this newsletter](https://github.com/tonyszko/newsletter/blob/main/images/to-mini.png)
+
+
 
 
 
