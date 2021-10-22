@@ -28,6 +28,15 @@ Before the usual spotlight on things, I found two paragraphs on simple yet impor
 
 
 
+----
+
+*If you are new here and you are not a subscriber - it is a web archive of my newsletter. If you want to join it and receive it first, directly to your inbox you can *
+***[>> grab your subscription <<](https://signup.onyszko.com)** * *and enjoy it weekly. No strings attached. Free to unsubscribe at any time.* 
+
+----
+
+
+
 ## Measure of the work well done 
 
 What constitutes a job well done, or how do you know you have done well in the long term? People measure it through various measures: wealth, influence, social media reach. 
