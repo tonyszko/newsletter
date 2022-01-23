@@ -36,6 +36,8 @@ Tomek
 
 | Date       | Issue                                                        |
 | ---------- | ------------------------------------------------------------ |
+| 2021-11-21 | [#32: Choosing the future - where we are and my take. DIDs,  cloud native stack, chaos tools for cloud ... and more](issues/Weekly-spotlight-32.md) |
+| 2021-11-12 | [#31: Are we applying lessons from Web2 to Web3? What will  disrupt Amazon? Portugal bans texts after hours, links, books ... and  more](issues/Weekly-spotlight-31.md) |
 | 2021-10-31 | [#30:  Meta explained - why it is an escape move.  What APIs are used in the cloud? Lawyers and code ... and more](issues/Weekly-spotlight-30.md) |
 | 2021-10-22 | [#29: Hiring fast 💨 or slow🐌? SPECIAL⭐ announcement, emerging tech, armed robots ... and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-29.md) |
 | 2021-10-11 | [#28 ✋: Measure of work well done, Feedback, Facebook down, Cloud over farms, McKinsey and middle class ... books and more](https://github.com/tonyszko/newsletter/blob/main/issues/Weekly-spotlight-28.md) |
